@@ -1,0 +1,28 @@
+$ mkdir SI_2023_lab1_213247-направена е папка
+
+$ cd SI_2023_lab1_213247-сите промени да се зачувуваат тука
+
+$ git init-креирано гит репо на мојот директориум
+
+$ git remote add origin https://github.com/RistovaRadica/SI_2023_lab1_213247.git-спојување
+$ git branch -M master
+
+$ nano ImeFajl –отварање фајл
+
+$ git add Imefajl-додавање на фајлот 
+
+$ git commit -a -m "Initial commit"-додавање порака
+
+$ git branch ImeGranka-креирање гранка
+
+$ git checkout ImeGranka -префрлање гранка
+
+$  git push -u origin head-зачувување промени на гит
+
+$ git push-пушнување на гит
+
+$ git merge -спојување на втората гранка со мастер
+
+$ git rebase master-спојување на останати гранки во мастер(сите во едно)
+
+$ git commit – додавање на фајлот на гит
