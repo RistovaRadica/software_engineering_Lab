@@ -1,2 +1,2 @@
-Radica Ristova 213247
+Radica Ristova
 
